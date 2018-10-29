@@ -1,0 +1,26 @@
+[17-Aug-2012 14:50:23] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/sigma483/public_html/infiniterun/highscores.php on line 5
+[17-Aug-2012 14:50:54] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/sigma483/public_html/infiniterun/highscores.php on line 5
+[17-Aug-2012 14:52:28] PHP Parse error:  syntax error, unexpected T_STRING in /home/sigma483/public_html/infiniterun/highscores.php on line 5
+[17-Aug-2012 14:52:57] PHP Parse error:  syntax error, unexpected T_STRING in /home/sigma483/public_html/infiniterun/highscores.php on line 5
+[17-Aug-2012 14:53:21] PHP Parse error:  syntax error, unexpected T_STRING in /home/sigma483/public_html/infiniterun/highscores.php on line 5
+[17-Aug-2012 14:53:48] PHP Parse error:  syntax error, unexpected T_STRING in /home/sigma483/public_html/infiniterun/highscores.php on line 5
+[17-Aug-2012 14:55:24] PHP Parse error:  syntax error, unexpected T_STRING in /home/sigma483/public_html/infiniterun/highscores.php on line 5
+[22-Aug-2012 10:52:55] PHP Warning:  fgets(): supplied argument is not a valid stream resource in /home/sigma483/public_html/infiniterun/highscores.php on line 12
+[22-Aug-2012 10:53:36] PHP Warning:  fgets(): supplied argument is not a valid stream resource in /home/sigma483/public_html/infiniterun/highscores.php on line 12
+[22-Aug-2012 11:08:36] PHP Parse error:  syntax error, unexpected ';' in /home/sigma483/public_html/infiniterun/highscores.php on line 22
+[22-Aug-2012 11:09:02] PHP Parse error:  syntax error, unexpected ';' in /home/sigma483/public_html/infiniterun/highscores.php on line 22
+[22-Aug-2012 11:09:14] PHP Parse error:  syntax error, unexpected ';' in /home/sigma483/public_html/infiniterun/highscores.php on line 22
+[22-Aug-2012 11:11:08] PHP Parse error:  syntax error, unexpected ';' in /home/sigma483/public_html/infiniterun/highscores.php on line 22
+[22-Aug-2012 11:11:26] PHP Parse error:  syntax error, unexpected ';' in /home/sigma483/public_html/infiniterun/highscores.php on line 22
+[22-Aug-2012 11:17:40] PHP Parse error:  syntax error, unexpected ';' in /home/sigma483/public_html/infiniterun/highscores.php on line 22
+[22-Aug-2012 11:18:13] PHP Parse error:  syntax error, unexpected ';' in /home/sigma483/public_html/infiniterun/highscores.php on line 22
+[22-Aug-2012 12:15:26] PHP Parse error:  syntax error, unexpected '[' in /home/sigma483/public_html/infiniterun/highscores.php on line 19
+[22-Aug-2012 12:16:00] PHP Parse error:  syntax error, unexpected '[' in /home/sigma483/public_html/infiniterun/highscores.php on line 19
+[22-Aug-2012 12:16:29] PHP Parse error:  syntax error, unexpected '[' in /home/sigma483/public_html/infiniterun/highscores.php on line 19
+[22-Aug-2012 15:52:14] PHP Parse error:  syntax error, unexpected T_INC in /home/sigma483/public_html/infiniterun/highscores.php on line 35
+[22-Aug-2012 18:44:02] PHP Parse error:  syntax error, unexpected T_INC in /home/sigma483/public_html/infiniterun/highscores.php on line 35
+[22-Aug-2012 18:44:30] PHP Parse error:  syntax error, unexpected T_INC in /home/sigma483/public_html/infiniterun/highscores.php on line 35
+[23-Aug-2012 10:48:53] PHP Parse error:  syntax error, unexpected T_INC in /home/sigma483/public_html/infiniterun/highscores.php on line 35
+[23-Aug-2012 10:49:18] PHP Parse error:  syntax error, unexpected T_INC in /home/sigma483/public_html/infiniterun/highscores.php on line 35
+[23-Aug-2012 10:50:23] PHP Parse error:  syntax error, unexpected T_INC in /home/sigma483/public_html/infiniterun/highscores.php on line 35
+[23-Aug-2012 10:51:08] PHP Parse error:  syntax error, unexpected T_INC in /home/sigma483/public_html/infiniterun/highscores.php on line 36
